@@ -1,0 +1,15 @@
+@CHARSET "ISO-8859-1";
+div#footer_static {
+    position: absolute;
+    max-width: inherit;
+    bottom: 0Px
+}
+
+p.rf {
+    text-align: left;
+    position: relative;
+}
+
+div#Header_static {
+    position: absolute;
+}
