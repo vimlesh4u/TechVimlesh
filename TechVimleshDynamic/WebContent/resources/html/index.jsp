@@ -18,7 +18,7 @@
 			<div>Tech<span>Vimlesh</span></div>
 		</div>
 		<br>
-	<div id = "Header_static"><jsp:include page="Header.jsp"></jsp:include></div>
+	<div id = "Header_static"><jsp:include page="StaticHeader.jsp"></jsp:include></div>
 		<div class="login">
 				<input type="text" placeholder="username" name="user"><br>
 				<input type="password" placeholder="password" name="password"><br>

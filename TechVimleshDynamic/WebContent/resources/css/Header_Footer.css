@@ -13,3 +13,9 @@ p.rf {
 div#Header_static {
     position: absolute;
 }
+
+img#logo {
+    top: -16px;
+    left: -29px;
+    /* float: left; */
+}

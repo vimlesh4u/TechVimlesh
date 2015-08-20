@@ -21,36 +21,35 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                             </button>
-                            <a class="navbar-brand" href="#">Logo</a>
+                            <a class="navbar-brand LogoImage" href="#"><img id="logo" alt="Image Not Found" src="/resources/image/newLogo.png"></a>
                             
                         </div>
                         <div id="navbar" class="navbar-collapse collapse">
                             <ul class="nav navbar-nav">
                                 <li class="active"><a href="#" class="">Home</a></li>
                                 
-                                    <li class=" dropdown"><a href="#" class="dropdown-toggle " data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Departments <span class="caret"></span></a>
+                                    <li class=" dropdown"><a href="#" class="dropdown-toggle " data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Java <span class="caret"></span></a>
                                         <ul class="dropdown-menu">
-                                            <li><a href="#">View Departments</a></li>
-                                            <li><a href="#">Add New</a></li>
+                                            <li><a href="#">OopsConcept</a></li>
+                                            <li><a href="#">Serialization</a></li>
                                         </ul>
                                     </li>
-                                    <li class=" dropdown"><a href="#" class="dropdown-toggle " data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Managers <span class="caret"></span></a>
+                                    <li class=" dropdown"><a href="#" class="dropdown-toggle " data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Spring <span class="caret"></span></a>
                                         <ul class="dropdown-menu">
-                                            <li><a href="#">View Managers</a></li>
-                                            <li><a href="#">Add New</a></li>
+                                            <li><a href="#">Spring Core</a></li>
+                                            <li><a href="#">Spring MVC</a></li>
                                         </ul>
                                     </li>
-                                    <li class=" dropdown"><a href="#" class="dropdown-toggle active" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Staff <span class="caret"></span></a>
+                                    <li class=" dropdown"><a href="#" class="dropdown-toggle active" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Hibernate <span class="caret"></span></a>
                                         <ul class="dropdown-menu">
-                                            <li><a href="#">View Staff</a></li>
-                                            <li><a href="#">Add New</a></li>
-                                            <li><a href="#">Bulk Upload</a></li>
+                                            <li><a href="#">Hibernate Tutorial</a></li>
+                                            <li><a href="#">Hibernate Cache</a></li>
                                         </ul>
                                     </li>
-                                    <li class=" down"><a href="#" class="dropdown-toggle active" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">HR <span class="caret"></span></a>
+                                    <li class=" down"><a href="#" class="dropdown-toggle active" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Interview <span class="caret"></span></a>
                                         <ul class="dropdown-menu">
-                                            <li><a href="#">Change Time Entry</a></li>
-                                            <li><a href="#">Report</a></li>
+                                            <li><a href="#">Java Interview</a></li>
+                                            <li><a href="#">Data Structure Interview</a></li>
                                         </ul>
                                     </li>
                                     
